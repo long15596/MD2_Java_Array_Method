@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MD2_Java_Array_Method.iml" filepath="$PROJECT_DIR$/.idea/MD2_Java_Array_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/count-student/count-student.iml" filepath="$PROJECT_DIR$/count-student/count-student.iml" />
     </modules>
   </component>
 </project>
